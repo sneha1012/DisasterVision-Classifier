@@ -1,2 +1,4 @@
 # DisasterVision-Classifier
-A comprehensive deep learning project for multi-class classification of post-earthquake satellite imagery, providing precise categorization of building damage types. Leveraging Convolutional Neural Networks, Focal Loss, and U-Net architecture, this work demonstrates advanced computer vision techniques for disaster assessment applications.
+![145776554-d2d61b46-f9ca-4f91-a75e-ed2dafe7170d](https://github.com/sneha1012/DisasterVision-Classifier/assets/79008130/8dcc7ebb-bd2e-429f-987e-e7acedf422b9)
+
+
