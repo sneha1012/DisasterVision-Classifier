@@ -31,7 +31,7 @@ Ensure you have the following requirements installed:
 
 To set up the project environment:
 
-1. Clone the repository: //github.com/YourUsername/DisasterVision-Classification.git
+1. Clone the repository: //github.com/sneha1012/DisasterVision-Classification.git
 2. Navigate to the project directory: cd DisasterVision-Classification
 3.  Install the required dependencies: pip install -r requirements.txt
 
